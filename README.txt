@@ -1,3 +1,2 @@
-Feature 2 changes
-Fixing bug
+Another fix
 Hello again
